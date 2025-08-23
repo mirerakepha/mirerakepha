@@ -1,32 +1,37 @@
-<h2 align="left">Hi 👋! My name is Kepha Mirera and I'm an AI developer</h2>
+<h2 align="left">Hi 👋! I'm Kepha Mirera : Full Stack Developer</h2>
 
-###
+<h4 align="left">🌟 About Me</h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p>
+  🧠 Software Engineer || 💡 Cyber Delinquent <br>
+  🚀 Passionate about creating clean, efficient, and scalable software solutions. <br>
+  🌐 Specialized in <b>Web Development</b>, <b>Android Development</b>, and <b>Machine Learning</b> — and ready to always advance to the low level programming concepts <br>
+  🛠️ Git is my playground. <code>Ctrl + C and Ctrl + V</code> is kinda the game nowadays😅. <br>
+  🪲 I believe bugs are just kinda new ideas... until they crash production 😅 <br>
+  💬 Always open to talks about cool projects more like low level programming and stuff like that or talking about anything tech — or drawing and anime<b>[Naruto fan]</b>. <br>
+  🧁 Fun fact: I'm GigaChad: I can center a div🗿 <br>
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+### 🛠️ Skills & Tools  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++-original.svg" height="30" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lisp/lisp-original.svg" height="30" alt="lisp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
   <img width="12" />
@@ -38,22 +43,42 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/r-original.svg" height="30" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
 </div>
 
-###
+---
+
+### 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirerakepha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirerakepha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mirerakepha&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" height="150" alt="streak stats" />
+</div>
+
+---
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI2N2Jkc2VrZWNra28xd2VidGZuNDMycm15bTRpZ25yang4dTRyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ADSJHOoIvyjKM/giphy.gif"  />
+
+---
+
+### 🌍 Connect With Me  
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/falcon.webs_?igsh=dHJqMnFpMG5ma3Vh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="kephamirera16@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
-
-<br clear="both">
-
-
-
-###
