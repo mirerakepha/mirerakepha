@@ -3,7 +3,7 @@
 <h4 align="left">🌟 About Me</h4>
 
 <p>
-  🧠 Software Engineer || 💡 Cyber Delinquent <br>
+  🧠 Software Engineer || 💡 Cyber Delinquent || Figma Designer<br>
   🚀 Passionate about creating clean, efficient, and scalable software solutions. <br>
   🌐 Specialized in <b>Web Development</b>, <b>Android Development</b>, and <b>Machine Learning</b> — and ready to always advance to the low level programming concepts <br>
   🛠️ Git is my playground. <code>Ctrl + C and Ctrl + V</code> is kinda the game nowadays😅. <br>
