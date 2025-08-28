@@ -70,8 +70,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/solana-foundation/anchor/master/anchor-logo.png" height="30" alt="anchor logo" />
-  <img width="12" />
+  
   <!-- Platforms & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
