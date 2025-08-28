@@ -4,7 +4,7 @@
 
 <p>
   🧠 Software Engineer || 💡 Cyber Delinquent || Figma Designer<br>
-  🚀 Passionate about creating clean, efficient, and scalable software solutions. <br>
+  🚀 Passionate about creating/building clean, efficient, and scalable software solutions. <br>
   🌐 Specialized in <b>Web Development</b>, <b>Android Development</b>, and <b>Machine Learning</b> — and ready to always advance to the low level programming concepts <br>
   🛠️ Git is my playground. <code>Ctrl + C and Ctrl + V</code> is kinda the game nowadays😅. <br>
   🪲 I believe bugs are just kinda new ideas... until they crash production 😅 <br>
@@ -70,7 +70,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
   <img width="12" />
-
+  <img src="https://raw.githubusercontent.com/solana-foundation/anchor/master/anchor-logo.png" height="30" alt="anchor logo" />
+  <img width="12" />
   <!-- Platforms & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="12" />
@@ -94,9 +95,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
 </div>
-
-![snake gif](https://github.com/mirerakepha/mirerakepha/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
