@@ -86,6 +86,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="jetpack (java/android)" />
   <img width="12" />
+  <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="30" alt="solana logo" />
+  <img width="12" />
+
+
 
   <!-- Others (custom/manual icons if needed) -->
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
