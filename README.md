@@ -10,15 +10,15 @@
 
 <h4 align="left">🌟 About Me</h4>
 
-<p>
-  🧠 Software Engineer || 💻 Cyber Delinquent || Figma Designer || Tech Enthusiast<br>
-  🚀 Passionate about creating/building clean, efficient, and scalable software solutions. <br>
-  🌐 Specialized in <b>Web Development</b>, <b>Android Development</b>, and <b>Machine Learning</b> — and ready to always advance to the low level programming concepts <br>
-  🛠️ Git is my playground. <code>Ctrl + C and Ctrl + V</code> is kinda the game nowadays😅. <br>
-  🪲 I believe bugs are just kinda new ideas... until they crash production 😅 <br>
-  💬 Always open to talks about cool projects more like system programming and stuff like that or talking about anything tech — or drawing and anime<b>[Naruto fan]</b>. <br>
-  🧁 Fun fact: I'm GigaChad: I can center a div🗿 <br>
-</p>
+
+🧠 Software Engineer || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast <br/>
+🚀 Passionate about building clean, efficient, and scalable software solutions. <br/>
+🌐 Specialized in Web Dev, Android Dev, and Machine Learning — always diving into low-level programming.<br/>
+🛠️ Git is my playground. Ctrl + C and Ctrl + V is kinda the game nowadays 😅<br/>
+🪲 Bugs? Just new ideas… until they crash production 😅<br/>
+💬 Open to talks about system programming, cool projects, anime (Naruto fan 🍥), and tech in general.<br/>
+🧁 Fun fact: I'm GigaChad — I can center a div 🗿<br/>
+
 
 ---
 
