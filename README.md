@@ -1,14 +1,22 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc421477-8720-498d-9360-452a4ca87a24" alt="BlackArch Linux Banner" width="1000"/>
+</p>
+
+
+
+
+
 <h2 align="left">Hi 👋! I'm Kepha Mirera : Full Stack Developer</h2>
 
 <h4 align="left">🌟 About Me</h4>
 
 <p>
-  🧠 Software Engineer || 💡 Cyber Delinquent || Figma Designer<br>
+  🧠 Software Engineer || 💻 Cyber Delinquent || Figma Designer || Tech Enthusiast<br>
   🚀 Passionate about creating/building clean, efficient, and scalable software solutions. <br>
   🌐 Specialized in <b>Web Development</b>, <b>Android Development</b>, and <b>Machine Learning</b> — and ready to always advance to the low level programming concepts <br>
   🛠️ Git is my playground. <code>Ctrl + C and Ctrl + V</code> is kinda the game nowadays😅. <br>
   🪲 I believe bugs are just kinda new ideas... until they crash production 😅 <br>
-  💬 Always open to talks about cool projects more like low level programming and stuff like that or talking about anything tech — or drawing and anime<b>[Naruto fan]</b>. <br>
+  💬 Always open to talks about cool projects more like system programming and stuff like that or talking about anything tech — or drawing and anime<b>[Naruto fan]</b>. <br>
   🧁 Fun fact: I'm GigaChad: I can center a div🗿 <br>
 </p>
 
@@ -64,6 +72,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
@@ -82,7 +92,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
+  <img width="12" />
+  <img src="https://www.opengl.org/img/opengl_logo.png" height="30" alt="opengl logo" />
+  <img width="12" />
   <!-- Mobile & Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
   <img width="12" />
@@ -107,15 +120,13 @@
 
 <div align="center">
   <a href="https://github.com/mirerakepha">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirerakepha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirerakepha&layout=compact&langs_count=6&theme=dracula"/>
-  </a>
-  <br/>
-  <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com/?user=mirerakepha&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" height="150" alt="streak stats" />
-
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=mirerakepha&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,c04848,480048"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirerakepha&layout=compact&langs_count=6&title_color=ffffff&text_color=ffffff&bg_color=45,c04848,480048"/>
+    <img height="130" src="https://streak-stats.demolab.com?user=mirerakepha&background=45,c04848,480048&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="streak stats" />
   </a>
 </div>
+
+
 
 ---
 
