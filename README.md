@@ -118,13 +118,12 @@
 
 ### 📈 GitHub Stats  
 
-<div align="center">
-  <a href="https://github.com/mirerakepha">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=mirerakepha&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,c04848,480048"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirerakepha&layout=compact&langs_count=6&title_color=ffffff&text_color=ffffff&bg_color=45,c04848,480048"/>
-    <img height="130" src="https://streak-stats.demolab.com?user=mirerakepha&background=45,c04848,480048&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="streak stats" />
-  </a>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mirerakepha&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,c04848,480048"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirerakepha&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&bg_color=45,c04848,480048"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=mirerakepha&background=45,c04848,480048&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="streak stats" />
 </div>
+
 
 
 
