@@ -103,6 +103,13 @@
   <img width="12" />
   <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="30" alt="solana logo" />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/e8dcfd2b-6a0e-4c25-81d2-2d9b731f8c03" height="30" alt="postgre logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/ab3b4e22-2b4b-442a-8f2d-25fc30c5b5e4" height="30" alt="supabase" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/2fdbb97c-80fa-42c8-b811-ead47a1fccef" height="20" alt="mongodb" />
+
+
 
 
 
