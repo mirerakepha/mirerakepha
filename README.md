@@ -69,45 +69,49 @@
 <div align="left">
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12" />
+  <img width="10" />
   
   <!-- Platforms & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://www.opengl.org/img/opengl_logo.png" height="30" alt="opengl logo" />
-  <img width="12" />
+  <img width="10" />
   <!-- Mobile & Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="jetpack (java/android)" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="30" alt="solana logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://github.com/user-attachments/assets/e8dcfd2b-6a0e-4c25-81d2-2d9b731f8c03" height="30" alt="postgre logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://github.com/user-attachments/assets/ab3b4e22-2b4b-442a-8f2d-25fc30c5b5e4" height="30" alt="supabase" />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/2fdbb97c-80fa-42c8-b811-ead47a1fccef" height="20" alt="mongodb" />
+  <img width="10" />
+  <img src="https://github.com/user-attachments/assets/2fdbb97c-80fa-42c8-b811-ead47a1fccef" height="30" alt="mongodb" />
+  <img width="10" />
+  <img src="https://github.com/user-attachments/assets/d963d578-8f1f-48b9-8cf4-249866bf4c20" height="30" alt="image" />
+  <img width="10" />
+
 
 
 
@@ -115,9 +119,9 @@
 
   <!-- Others (custom/manual icons if needed) -->
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
 </div>
 
