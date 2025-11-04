@@ -58,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
+  <img height="30" alt="image" src="https://github.com/user-attachments/assets/4147f640-6a35-4b55-adca-d28e3dda5794" />
+
 </div>
 
 ---
