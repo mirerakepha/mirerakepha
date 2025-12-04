@@ -11,7 +11,7 @@
 <h4 align="left">🌟 About Me</h4>
 
 
-🧠 Software Engineer || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast <br/>
+🧠 Software Engineer || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
 🚀 Passionate about building clean, efficient, and scalable software solutions. <br/>
 🌐 Specialized in Web Dev, Android Dev, and Machine Learning — always diving into low-level programming.<br/>
 🛠️ Git is my playground. Ctrl + C and Ctrl + V is kinda the game nowadays 😅<br/>
