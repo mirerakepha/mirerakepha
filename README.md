@@ -6,12 +6,12 @@
 
 
 
-<h2 align="left">Hi 👋! I'm Kepha Mirera : Full Stack Developer</h2>
+<h2 align="left">Hi 👋! I'm Kepha Mirera : Not your average Developer</h2>
 
 <h4 align="left">🌟 About Me</h4>
 
-
-🧠 Software Engineer || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
+🦀 <b>Rustacean</b><br/>
+🧠 Software Engineer || FullStack Developer || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
 🚀 Passionate about building clean, efficient, and scalable software solutions. <br/>
 🌐 Specialized in Web Dev, Android Dev, and Machine Learning — always diving into low-level programming.<br/>
 🛠️ Git is my playground. Ctrl + C and Ctrl + V is kinda the game nowadays 😅<br/>
@@ -53,6 +53,8 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/download/439022/typescript.svg" height="30" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -85,6 +87,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
   <img width="10" />
   
+  
   <!-- Platforms & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="10" />
@@ -113,16 +116,24 @@
   <img width="10" />
   <img src="https://github.com/user-attachments/assets/d963d578-8f1f-48b9-8cf4-249866bf4c20" height="30" alt="image" />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="rasp-image" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="google-cloud" />
+  <img width="10" />
 
 
 
 
 
 
-  <!-- Others (custom/manual icons if needed) -->
+  <!-- Other -->
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
 </div>
