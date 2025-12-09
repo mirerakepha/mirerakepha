@@ -6,18 +6,26 @@
 
 
 
-<h2 align="left">Hi 👋! I'm Kepha Mirera : Not your average Developer</h2>
+<h2 align="left">Hi 👋! I'm Kepha Mirera : Full Stack Developer</h2>
 
 <h4 align="left">🌟 About Me</h4>
 
 🦀 <b>Rustacean</b><br/>
-🧠 Software Engineer || FullStack Developer || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
+🧠 Software Engineer || FullStack Developer || System Engineer || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
 🚀 Passionate about building clean, efficient, and scalable software solutions. <br/>
-🌐 Specialized in Web Dev, Android Dev, and Machine Learning — always diving into low-level programming.<br/>
+🌐 Specialized in Web Dev, Android Dev, Embeded systems and Machine Learning — always diving into low-level programming.<br/>
 🛠️ Git is my playground. Ctrl + C and Ctrl + V is kinda the game nowadays 😅<br/>
 🪲 Bugs? Just new ideas… until they crash production 😅<br/>
-💬 Open to talks about system programming, cool projects, anime (Naruto fan 🍥), and tech in general.<br/>
+💬 Open to talks about system or embeded programming, cool projects, anime (Naruto fan 🍥), and tech in general.<br/>
 🧁 Fun fact: I'm GigaChad — I can center a div 🗿<br/>
+
+
+---
+
+<i><p style="font-size: 12px; font-weight: 300; font-style: italic;">
+  "Your time is limited, so don't waste it living someone else's life"<br/>
+  <span style="font-size: 11px; font-weight: 300;">~ Steve Jobs</span>
+</p></i>
 
 
 ---
