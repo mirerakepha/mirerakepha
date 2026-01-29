@@ -6,14 +6,14 @@
 
 
 
-<h2 align="left">Hi 👋! I'm Kepha Mirera : Full Stack Developer</h2>
+<h2 align="left">Hi 👋! I'm Kepha Mirera : Cross-Domain Developer </h2>
 
 <h4 align="left">🌟 About Me</h4>
 
 🦀 <b>Rustacean</b><br/>
-🧠 Software Engineer || FullStack Developer || System Engineer || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
+🧠 Software Engineer || FullStack Developer || System Engineer || Game Dev || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
 🚀 Passionate about building clean, efficient, and scalable software solutions. <br/>
-🌐 Specialized in Web Dev, Android Dev, Embeded systems and Machine Learning — always diving into low-level programming.<br/>
+🌐  ~I don't specialize <br/>
 🛠️ Git is my playground. Ctrl + C and Ctrl + V is kinda the game nowadays 😅<br/>
 🪲 Bugs? Just new ideas… until they crash production 😅<br/>
 💬 Open to talks about system or embeded programming, cool projects, anime (Naruto fan 🍥), and tech in general.<br/>
@@ -30,120 +30,129 @@
 
 ---
 
-### 🛠️ Skills & Tools  
+### Programming Languages
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img src="https://www.svgrepo.com/download/439022/typescript.svg" height="30" alt="typescript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/download/439022/typescript.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
-  <img height="30" alt="image" src="https://github.com/user-attachments/assets/4147f640-6a35-4b55-adca-d28e3dda5794" />
-
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash" />
 </div>
 
----
+--- 
 
-
-
-### 🧰 Tech Stack  
+### Tech Stack
 
 <div align="left">
-  <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="10" />
-  
-  
-  <!-- Platforms & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
-  <img width="10" />
-  <img src="https://www.opengl.org/img/opengl_logo.png" height="30" alt="opengl logo" />
-  <img width="10" />
-  <!-- Mobile & Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="jetpack (java/android)" />
-  <img width="10" />
-  <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="30" alt="solana logo" />
-  <img width="10" />
-  <img src="https://github.com/user-attachments/assets/e8dcfd2b-6a0e-4c25-81d2-2d9b731f8c03" height="30" alt="postgre logo" />
-  <img width="10" />
-  <img src="https://github.com/user-attachments/assets/ab3b4e22-2b4b-442a-8f2d-25fc30c5b5e4" height="30" alt="supabase" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind" />
+  <img width="12" />
+</div>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="springboot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails" />
+  <img width="12" />
+</div>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/e8dcfd2b-6a0e-4c25-81d2-2d9b731f8c03" height="30" alt="postgres" />
+  <img width="12" />
   <img src="https://github.com/user-attachments/assets/2fdbb97c-80fa-42c8-b811-ead47a1fccef" height="30" alt="mongodb" />
-  <img width="10" />
-  <img src="https://github.com/user-attachments/assets/d963d578-8f1f-48b9-8cf4-249866bf4c20" height="30" alt="image" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="rasp-image" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="google-cloud" />
-  <img width="10" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/ab3b4e22-2b4b-442a-8f2d-25fc30c5b5e4" height="30" alt="supabase" />
+  <img width="12" />
+</div>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas" />
+  <img width="12" />
+</div>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wasm" height="30" alt="wasm" />
+  <img width="12" />
+  <img src="https://www.opengl.org/img/opengl_logo.png" height="30" alt="opengl" />
+  <img width="12" />
+</div>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="gcp" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache" />
+  <img width="12" />
+</div>
 
+<div align="left">
+  <img src="https://solana.com/src/img/branding/solanaLogoMark.svg" height="30" alt="solana" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi" />
+  <img width="12" />
+</div>  
 
-
-  <!-- Other -->
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana" />
 </div>
 
 ---
