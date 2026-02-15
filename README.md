@@ -49,6 +49,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c" />
   <img width="12" />
+  <img width="30" height="30" alt="icons8-assembly-48" src="https://github.com/user-attachments/assets/55903e63-eef0-4ed7-b2ca-7dc1db3cb86c" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby" />
