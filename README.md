@@ -11,13 +11,13 @@
 <h4 align="left">🌟 About Me</h4>
 
 🦀 <b>Rustacean</b><br/>
-🧠 Software Engineer || FullStack Developer || System Engineer || Game Dev || 💻 Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
+🧠 Software Engineer || FullStack Developer || System Engineer || Game Dev || Cyber Delinquent || 🎨 Figma Designer || ⚡ Tech Enthusiast || Farmer <br/>
 🚀 Passionate about building clean, efficient, and scalable software solutions. <br/>
 🌐  ~I don't specialize <br/>
 🛠️ Git is my playground. Ctrl + C and Ctrl + V is kinda the game nowadays 😅<br/>
 🪲 Bugs? Just new ideas… until they crash production 😅<br/>
 💬 Open to talks about system or embeded programming, cool projects, anime (Naruto fan 🍥), and tech in general.<br/>
-🧁 Fun fact: I'm GigaChad — I can center a div 🗿<br/>
+🧁 Fun fact: I'm GigaChad — I code in Assembly 🗿<br/>
 
 
 ---
@@ -49,6 +49,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="c#" />
+  <img width="12" />
   <img width="30" height="30" alt="icons8-assembly-48" src="https://github.com/user-attachments/assets/55903e63-eef0-4ed7-b2ca-7dc1db3cb86c" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" />
@@ -75,6 +77,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind" />
   <img width="12" />
 </div>
@@ -93,6 +97,10 @@
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="springboot" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=yew" height="30" alt="yew" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=activ" height="30" alt="actix" />
   <img width="12" />
 </div>
 
@@ -124,6 +132,8 @@
   <img src="https://skillicons.dev/icons?i=wasm" height="30" alt="wasm" />
   <img width="12" />
   <img src="https://www.opengl.org/img/opengl_logo.png" height="30" alt="opengl" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity" />
   <img width="12" />
 </div>
 
