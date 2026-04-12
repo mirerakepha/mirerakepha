@@ -51,11 +51,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="c#" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="golang" />
+  <img width="12" />
   <img width="30" height="30" alt="icons8-assembly-48" src="https://github.com/user-attachments/assets/55903e63-eef0-4ed7-b2ca-7dc1db3cb86c" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia" />
   <img width="12" />
@@ -169,16 +169,19 @@
 
 ---
 
-### 📈 GitHub Stats  
+## 📊 github stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mirerakepha&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=45,c04848,480048"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirerakepha&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&bg_color=45,c04848,480048"/>
-  <img height="150" src="https://streak-stats.demolab.com?user=mirerakepha&background=45,c04848,480048&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="streak stats" />
+<div align="center">
+
+![profile overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirerakepha&theme=github_dark)
+
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirerakepha&theme=github_dark)
+![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirerakepha&theme=github_dark)
+![commits per language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirerakepha&theme=github_dark)
+
+![streak](https://streak-stats.demolab.com?user=mirerakepha&hide_border=true&background=00000000&ring=888780&fire=888780&currStreakNum=5F5E5A&sideNums=5F5E5A&currStreakLabel=888780&sideLabels=888780&dates=B4B2A9)
+
 </div>
-
-
-
 
 ---
 
