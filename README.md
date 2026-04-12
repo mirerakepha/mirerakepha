@@ -6,7 +6,7 @@
 
 
 
-<h2 align="left">Hi 👋! I'm Kepha Mirera : Cross-Domain Developer </h2>
+<h2 align="left">Hi 👋! I'm <a href="https://mirerakepha.vercel.app">Kepha Mirera</a> : Cross-Domain Developer</h2>
 
 <h4 align="left">🌟 About Me</h4>
 
