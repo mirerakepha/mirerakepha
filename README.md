@@ -183,6 +183,7 @@
 
 ![streak](https://streak-stats.demolab.com?user=mirerakepha&hide_border=true&background=00000000&ring=888780&fire=888780&currStreakNum=5F5E5A&sideNums=5F5E5A&currStreakLabel=888780&sideLabels=888780&dates=B4B2A9)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mirerakepha&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
 ---
