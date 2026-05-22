@@ -45,41 +45,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="golang" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua" />
   <img width="12" />
-  <img width="30" height="30" alt="assembly" src="https://github.com/user-attachments/assets/55903e63-eef0-4ed7-b2ca-7dc1db3cb86c" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash" />
+  
 </div>
 
 ---
 
 ### Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vue" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind" />
-</div>
-<br/>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi" />
   <img width="12" />
@@ -166,7 +142,7 @@
 [![mobius](https://github-readme-stats-topaz-nine-71.vercel.app/api/pin/?username=mirerakepha&repo=mobius&theme=github_dark&hide_border=false&border_color=30363d&border_radius=8)](https://github.com/mirerakepha/mobius)
 [![pantheon](https://github-readme-stats-topaz-nine-71.vercel.app/api/pin/?username=mirerakepha&repo=pantheon&theme=github_dark&hide_border=false&border_color=30363d&border_radius=8)](https://github.com/mirerakepha/pantheon)
 [![GLProjects](https://github-readme-stats-topaz-nine-71.vercel.app/api/pin/?username=mirerakepha&repo=GLProjects&theme=github_dark&hide_border=false&border_color=30363d&border_radius=8)](https://github.com/mirerakepha/GLProjects)
-[![game-gacha-sim](https://github-readme-stats-topaz-nine-71.vercel.app/api/pin/?username=mirerakepha&repo=game-gacha-sim&theme=github_dark&hide_border=false&border_color=30363d&border_radius=8)](https://github.com/mirerakepha/game-gacha-sim)
+[![sulphate](https://github-readme-stats-topaz-nine-71.vercel.app/api/pin/?username=mirerakepha&repo=sulphate&theme=github_dark&hide_border=false&border_color=30363d&border_radius=8)](https://github.com/mirerakepha/sulphate)
 
 </div>
 
