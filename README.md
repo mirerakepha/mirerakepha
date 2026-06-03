@@ -1,3 +1,6 @@
+
+	I'm the git spammer here,,watsup..I do android development and patching too and tons of other stuff, Web development, Systems Programming,  
+
 ### Projects
 
 <div align="center">
