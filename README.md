@@ -1,5 +1,6 @@
 
-	I'm the git spammer here,,watsup..I do android development and patching too and tons of other stuff, Web development, Systems Programming,  
+	I'm the Rustacean here,,watsup..I do android development and patching
+	and tons of other stuff, Web development, Linux server administration, Systems Programming,  
 
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,python,kotlin,django,nodejs,yew,docker,linux,nginx,neovim,lua,bash,wasm,azure,aws,android&theme=dark)](https://skillicons.dev)
 
